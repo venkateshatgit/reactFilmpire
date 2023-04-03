@@ -1,0 +1,15 @@
+.search{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(25, 118, 210);
+    z-index: 101;
+    width: 100%;
+    color: #fff;
+    height: 50px;
+    padding: 10px;
+    position: fixed;
+}
+
+.search input{
+    outline: none;
+}
